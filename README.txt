@@ -1,3 +1,4 @@
+
 This is a file contains all the details related to Environmental Variables...
 -------------------
 On Local Server:
@@ -24,3 +25,5 @@ MONGODB_PRODUCTION_URL -> URL for MongoDB Database
 SENDGRID_API_KEY -> SendGrid API key (SendGrid: It provides NodeJS API to send email from application)
 ADMIN_EMAIL -> Email_Id that you want to set as your application admin
 SENDGRID_SENDER_EMAIL -> Email_Id that you want to send email from (Email_Id must be authorized from SendGrid)
+
+
