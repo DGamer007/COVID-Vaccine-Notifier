@@ -7,6 +7,8 @@ In order to get email notifications, the user will have to register his/her **EM
 In the source code you might find some Environment Variables,
 [Click Here](/env.readme.txt) to get the detailed information about those Environment Variables
 
+[Important Instructions](/Instructions.txt)
+
 ### Used APIs:
 
 [Co-WIN Public APIs](https://apisetu.gov.in/public/marketplace/api/cowin)
