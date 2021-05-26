@@ -5,19 +5,20 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vaccine Reminder</title>
+    <link rel="stylesheet" href="/static/client.css">
+    <title>Home | Vaccine Notifier</title>
 </head>
 
 <body>
-    <h1>Welcome to Vaccine Reminder</h1>
+    <h1>Vaccine Notifier</h1>
 
     <form action="" method="POST">
-        <input type="email" name="email" id="email" placeholder="Enter Email Address" required>
-        <input type="text" name="pincode" id="pincode" placeholder="Enter Pincode" required>
+        <input type="email" name="email" id="email" autocomplete="off" placeholder="Enter Email Address" required>
+        <input type="text" name="pincode" id="pincode" autocomplete="off" placeholder="Enter Pincode" required>
         <button type="submit">Submit</button>
     </form>
 
-    <a href="/admin">Admin?</a>
+    <p>Are you an <a href="/admin">Admin?</a></p>
 </body>
 
 </html>
