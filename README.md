@@ -10,9 +10,10 @@ In the source code you might find some Environment Variables,
 ### Used APIs:
 
 [Co-WIN Public APIs](https://apisetu.gov.in/public/marketplace/api/cowin)
+
 [SendGrid Email API](https://sendgrid.com/solutions/email-api/)
 <br>
 <br>
 
 ##### Contributors:
-    Dhruv Prajapati (alias: DGamer)
+    Dhruv Prajapati
