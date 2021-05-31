@@ -1,6 +1,6 @@
 
 Hey There,
-    Before you start messing with this code...here are some instructions and precautions that I want to share
+    Before you start messing with this code...here are some instructions
 
 1)  When you start this server first time in your local machine or in production environment; request for '/admin' page in browser and register your mobile number... then and only then you'll be able to request using those APIs.
 
